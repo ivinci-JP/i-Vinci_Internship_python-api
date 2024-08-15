@@ -9,4 +9,4 @@ COPY . /app
 
 EXPOSE 8000
 
-CMD [ "python", "sample.py" ]
+CMD [ "python", "addressCheck.py" ]
